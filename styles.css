@@ -14,10 +14,6 @@ body {
   flex-direction: column;
 }
 
-/* div {
-  border: 3px solid blue;
-} */
-
 .header {
   display: flex;
   justify-content: center;
